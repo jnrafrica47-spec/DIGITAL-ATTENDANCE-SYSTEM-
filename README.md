@@ -1,4 +1,4 @@
-# DIGITAL-ATTENDANCE-SYSTEM-
+# DIGITAL-ATTENDANCE-SYSTEM-for Hour-Based Lectures
 # 📋 Project Overview
 A C++ console-based attendance system for hour-based lectures. Developed for EEE227 - HND Electrical Engineering.
 
